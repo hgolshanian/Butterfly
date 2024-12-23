@@ -6,10 +6,7 @@ Figure1. Simulation of chiller at the Moy Park
 
 We plotted the data gathered from iButton sensors in MATLAB and then attempted to fit the figure obtained from the simulation in NetLogo.
 
-<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture4.PNG" width=600 height=300>
-
-![Capture4](https://github.com/user-attachments/assets/efafa316-507d-4566-98e2-218101fce705)
-
+<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture4.PNG" width=300 height=300>
 <p align="center" >
 Figure2. Heat transfer model after tuning
 
