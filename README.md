@@ -13,3 +13,6 @@ Figure2. Heat transfer model after tuning
 
 
 We then calculated the time constant using the parameters obtained from the previous step to compare chiller consumption at different sites.
+![Capture5](https://github.com/user-attachments/assets/3af8869a-b5b0-4a26-91aa-7753310fd424)
+<p align="center" >
+Figure3. Calculating time constant
