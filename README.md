@@ -5,7 +5,8 @@ This project focuses on simulating chillers at the Moy Park food factory at two 
 Figure1. Simulation of chiller at the Moy Park
 
 We plotted the data gathered from iButton sensors in MATLAB and then attempted to fit the figure obtained from the simulation in NetLogo.
-![Capture4](https://github.com/user-attachments/assets/f166f355-67c5-42a4-a4f5-53a11783c00c)
+<p align="center" >
+<img src="https://github.com/user-attachments/assets/f166f355-67c5-42a4-a4f5-53a11783c00c)" alt= "Capture4" width="300" height="300" />
 <p align="center" >
 Figure2. Heat transfer model after tuning
 
