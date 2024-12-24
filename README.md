@@ -7,13 +7,13 @@ Figure1. Simulation of chiller at the Moy Park
 We plotted the data gathered from iButton sensors in MATLAB and then attempted to fit the figure obtained from the simulation in NetLogo.
 
 <p align="center" >
-<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture4.PNG" width=450 height=300>
+<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture4.PNG" width=500 height=300>
 <p align="center" >
 Figure2. Heat transfer model after tuning
 
 
 We then calculated the time constant using the parameters obtained from the previous step to compare chiller consumption at different sites.
 <p align="center" >
-<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture5.PNG" width=450 height=300>
+<img src="https://github.com/hgolshanian/Netlogo/blob/main/Photos/Capture5.PNG" width=500 height=300>
 <p align="center" >
 Figure3. Calculating time constant
